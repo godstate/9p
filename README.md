@@ -3,8 +3,7 @@
   <tbody class="d-block">
     <tr class="d-block">
       <td class="d-block comment-body markdown-body  js-comment-body">
-
-          <h4><a href="https://github.com/5fan/88/issues/2">九评共产党 之一 评共产党是什么 </a></h4>
+<h4><a href="https://github.com/5fan/88/issues/2">九评共产党 之一 评共产党是什么 </a></h4>
 <h4><a href="https://github.com/5fan/88/issues/3">九评共产党 之二 评中国共产党是怎样起家的 </a></h4>
 <h4><a href="https://github.com/5fan/88/issues/4">九评共产党 之三 评中国共产党的暴政 </a></h4>
 <h4><a href="https://github.com/5fan/88/issues/5">九评共产党 之四 评共产党是反宇宙的力量</a></h4>
